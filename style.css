@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    padding-top: 30px;
+    background-color: white;
+    height: 100%;
+    margin: 0px auto;    
+}
+.top-nav {
+    margin-top: 30px;
+    height: 100px;
+    background-color: rgb(25, 174, 161);
+    width: 523px;
+    margin: 0px auto;    
+}
+
+
+.main {
+    border: 4px gray solid;
+    border-top: none;
+    height: fit-content;
+    width: 500px;
+    margin: 0px auto;
+    padding-left: 15px;
+    font-size: 14px;
+}
+#user_circle {
+    height: 80px;
+    padding-top: 60px;
+    padding-left: 30px;
+}
+.location {
+    line-height: 40px;
+    display: flex;
+    flex-direction: row;  
+}
+h2 {
+    font-size: 28px;
+    padding-top: 55px;
+    padding-left:5PX ;
+}
+
+p {
+    line-height: 20px;
+    padding-left: 5px;
+}
+#gear_pic, #map_marker {
+    padding: 10px;
+    height:15px;
+}
+.gear {
+    display:flex;
+    line-height: 40px;
+}
+
+a {
+    padding-left: 5px;;
+}
